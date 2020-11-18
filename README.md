@@ -1,4 +1,4 @@
-### Hi there, Michael Nunez here! 👋
+### Hi there, Michael Nunez here! I'm a bum 👋
 
 I'll populate some stuff later!
 <!--
