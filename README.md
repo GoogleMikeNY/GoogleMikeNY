@@ -6,7 +6,7 @@ I worked at [StrideNYC](https://www.stridenyc.com/) -- An Agile consulting compa
 
 Hosted the [The Rabbit Hole -- The Definitive Developer's Podcast](https://www.stridenyc.com/podcasts)
 
-Personal Website here: [michael.nunez.io](michael.nunez.io)
+Personal Website here: [michael.nunez.io](https://michael.nunez.io)
 
 Find me on: [Twitter](https://twitter.com/googlemike)
 - 🔭 I’m currently working on getting a new job. If you're hiring, hit me up!!
