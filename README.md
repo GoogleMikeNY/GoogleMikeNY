@@ -2,7 +2,7 @@
 
 Lead Software developer with over 13 years of experience. 
 
-Currently working at [CorralData](https://corraldata.com/)
+Currently operating my own business! Checkout [GioBytes.io](https://giobytes.io/)
 
 Hosted the [The Rabbit Hole -- The Definitive Developer's Podcast](https://www.stridenyc.com/podcasts)
 
